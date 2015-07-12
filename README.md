@@ -7,12 +7,12 @@ listen for keystrokes and logs them to a remote server.For educational purposes 
 
 ##Instructions
 
-1.Download AutoIT from [here](https://www.autoitscript.com/site/autoit/downloads/) and optionally SCITE.
-2.Edit the keylogger.au3 file and set 
+*Download AutoIT from [here](https://www.autoitscript.com/site/autoit/downloads/) and optionally SCITE.
+*Edit the keylogger.au3 file and set 
 ```
 $postServer="www.myserver.com/log"
 ```
 to your server URL.
-3.Deploy on your machine.
+*Deploy on your machine.
 
 
